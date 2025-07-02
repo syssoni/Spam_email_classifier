@@ -67,6 +67,6 @@ This project is an SMS/E-mail spam classifier that classifies user-input message
 ---
 <img src="https://raw.githubusercontent.com/syssoni/Spam_email_classifier/main/Web_app/web_app.png" alt="Web application" width="70%">
 
-## Feel free to suggest changes :)
+**Feel free to suggest changes :)**
 
 
