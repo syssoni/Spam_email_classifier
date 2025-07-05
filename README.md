@@ -46,21 +46,17 @@ This project is an SMS/E-mail spam classifier that classifies user-input message
   
   (Note: All the dependencies are installed in the yaml file)<br/>
 
-**Steps for running the project**<br/>
-1. Clone the Repository<br/>
-   git clone https://github.com/syssoni/Spam_email_classifier.git<br/>
-   cd spam-email-classifier<br/>
-   
-2. Create and Activate Environment<br/>
+**Steps for running the project**<br/> 
+1. Create and Activate Environment<br/>
    conda env create -f environment.yml<br/>
    conda activate spam_classifier<br/>
    
-4. Add the required data files<br/>
+2. Add the required data files<br/>
    If not yet created, run spam_email.ipynb.ipynb to generate them<br/>
    vectorizer.pkl<br/>
    model.pkl<br/>
    
-5. Run the App<br/>
+3. Run the App<br/>
    streamlit run spam_classifier_app.py<br/>
    
 ## Application
